@@ -1,1 +1,1 @@
-console.log("first push")
+console.log("first push");
